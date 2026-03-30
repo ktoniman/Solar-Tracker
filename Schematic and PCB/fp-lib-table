@@ -1,5 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "Mp3432")(type "KiCad")(uri "C:/Users/ktoni/Downloads/ul_MP3432GL-Z")(options "")(descr "Boost Converter"))
-  (lib (name "ArduinoS")(type "KiCad")(uri "${KIPRJMOD}/arduino-kicad-library-master/footprints/arduino-library.pretty")(options "")(descr "MCU DevBoard"))
-)

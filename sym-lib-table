@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Boost")(type "KiCad")(uri "C:/Users/ktoni/Downloads/MP3432GL_Z/KiCADv6/2026-03-29_07-57-21.kicad_sym")(options "")(descr ""))
+  (lib (name "arduino")(type "KiCad")(uri "C:/Users/ktoni/Downloads/arduino-kicad-library-master/symbols/arduino-library.kicad_sym")(options "")(descr ""))
+  (lib (name "capacitorMurata")(type "KiCad")(uri "C:/Users/ktoni/Downloads/GRM32ER61C476KE15K/GRM32ER61C476KE15K.kicad_sym")(options "")(descr ""))
+)
